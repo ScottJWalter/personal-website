@@ -39,6 +39,7 @@ projects:
       - jstools
       - gadgets
 
+<<<<<<< HEAD
 social_media:
   behance: ScottJWalter
   dribbble: ScottJWalter
@@ -46,6 +47,16 @@ social_media:
   linkedin: ScottJWalter
   medium: "@scottjwalter"
   stackoverflow: 326607
+=======
+# social_media:
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+  # hackerrank: your_username
+  # linkedin: your_username
+  # medium: @your_username
+  # stackoverflow: your_user_id
+>>>>>>> d78c6b2 (Adds hackerrank to social media links.)
   # telegram: your_username
   twitter: ScottJWalter
   youtube: user/sjw4lt3r
