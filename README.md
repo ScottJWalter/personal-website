@@ -10,6 +10,14 @@ It's all possible using the combination of [Jekyll](https://jekyllrb.com/docs/) 
 
 ## Installation
 
+#### _SJW Notes_
+
+* Tested with Ruby 2.5.1
+* Using `rbenv` to manage the environment under WSL (Ubuntu 14.04)
+* need to `git config core.autocrlf false` in the repo (because the local copy is on an NTFS mount, not a unix one )
+* must `rbenv rehash` after installing bundler or it won't be seen (doesn't create the shim symlink)
+
+
 ### Fork the `github/personal-website` repo
 
 You'll be making your own copy of the "personal website starter" repository so you have your own project to customize. A "fork" is a copy of a repository. So select "Fork" atop [the `github/personal-website` repository](https://github.com/github/personal-website).
@@ -102,7 +110,7 @@ Your website supports linking and sharing to social media services you're using,
 ```
 social_media:
   behance: your_username
-  dribbble: your_username  
+  dribbble: your_username
   facebook: your_username
   linkedin: your_username
   medium: @your_username
