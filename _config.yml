@@ -27,16 +27,16 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # linkedin: your_username
-  # medium: @your_username
-  # stackoverflow: your_user_id
+social_media:
+  behance: ScottJWalter
+  dribbble: ScottJWalter
+  facebook: ScottJWalter
+  linkedin: ScottJWalter
+  medium: @scottjwalter
+  stackoverflow: 326607
   # telegram: your_username
-  # twitter: your_username
-  # youtube: your_username
+  twitter: ScottJWalter
+  youtube: UCGhm-vpEJW7wQF2ePuj2fgw
   # vk: your_username
 
 topics:
