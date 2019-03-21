@@ -41,6 +41,7 @@ projects:
       - gadgets
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 social_media:
   behance: ScottJWalter
   dribbble: ScottJWalter
@@ -49,6 +50,8 @@ social_media:
   medium: "@scottjwalter"
   stackoverflow: 326607
 =======
+=======
+>>>>>>> 15a08e9 (updated links)
 # social_media:
   # behance: your_username
   # dribbble: your_username
@@ -66,6 +69,18 @@ social_media:
   # youtube: your_username
   # instagram: your_username
   # unsplash: your_username
+=======
+social_media:
+  behance: ScottJWalter
+  dribbble: ScottJWalter
+  facebook: ScottJWalter
+  linkedin: ScottJWalter
+  medium: @scottjwalter
+  stackoverflow: 326607
+  # telegram: your_username
+  twitter: ScottJWalter
+  youtube: UCGhm-vpEJW7wQF2ePuj2fgw
+>>>>>>> 3e954cf (updated links)
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
