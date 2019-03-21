@@ -21,31 +21,97 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 20
   exclude:
     forks: true
     projects:
-    # - repo-name
+      - template-repo
+      - devdataprod-035-slides
+      - devdataprod-035
+      - github-for-developers-7
+      - regmods-033
+      - predmachlearn-033
+      - exdata-031-project-2
+      - getdata-031
+      - datasciencecoursera
+      - python
+      - s3tools
+      - jstools
+      - gadgets
 
 social_media:
   behance: ScottJWalter
   dribbble: ScottJWalter
   facebook: ScottJWalter
   linkedin: ScottJWalter
-  medium: @scottjwalter
+  medium: "@scottjwalter"
   stackoverflow: 326607
   # telegram: your_username
   twitter: ScottJWalter
-  youtube: UCGhm-vpEJW7wQF2ePuj2fgw
+  youtube: user/sjw4lt3r
   # vk: your_username
 
 topics:
+  - name: Ansible
+    web_url: https://github.com/topics/ansible
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ansible/ansible.png
+
+  - name: Amazon Web Services
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+
+  - name: Azure
+    web_url: https://github.com/topics/azure
+    image_url: https://raw.githubusercontent.com/github/explore/7b1d0500a8bc6dc4bd61c743051b80b1dd552a81/topics/azure/azure.png
+
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Minecraft
+    web_url: https://github.com/topics/minecraft
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/minecraft/minecraft.png
+
+  - name: MySQL
+    web_url: https://github.com/topics/mysql
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mysql/mysql.png
+
+  - name: Node.js
+    web_url: https://github.com/topics/nodejs
+    image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
+
+  - name: PHP
+    web_url: https://github.com/topics/php
+    image_url: https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png
+
+  - name: PostgreSQL
+    web_url: https://github.com/topics/postgresql
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/postgresql/postgresql.png
+
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
+
+  - name: R
+    web_url: https://github.com/topics/r
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/r/r.png
+
+  - name: Raspberry Pi
+    web_url: https://github.com/topics/raspberry-pi
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/raspberry-pi/raspberry-pi.png
+
+  - name: Serverless
+    web_url: https://github.com/topics/serverless
+    image_url: https://anttdev.com/wp-content/uploads/2017/10/icon_serverless_meetups-300x300.png
+
+  - name: Ubuntu
+    web_url: https://github.com/topics/ubuntu
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ubuntu/ubuntu.png
+
+  - name: WordPress
+    web_url: https://github.com/topics/wordpress
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/wordpress/wordpress.png
