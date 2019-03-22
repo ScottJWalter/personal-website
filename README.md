@@ -136,7 +136,7 @@ social_media:
   instagram: your_username
   keybase: your_username
   linkedin: your_username
-  medium: your_username
+  medium: "@your_username"
   stackoverflow: your_user_id
   telegram: your_username
   twitter: your_username
