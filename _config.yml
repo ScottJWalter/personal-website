@@ -61,7 +61,7 @@ social_media:
   twitter: ScottJWalter
   youtube: user/sjw4lt3r
   # vk: your_username
-  # web: http://your_website
+  # website: http://your_website_url
 
 topics:
   - name: Ansible
