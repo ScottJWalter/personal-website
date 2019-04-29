@@ -23,6 +23,7 @@ projects:
   #   - stars
   limit: 20
   exclude:
+    archived: false
     forks: true
     projects:
       - template-repo
