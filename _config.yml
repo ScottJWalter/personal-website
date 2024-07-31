@@ -40,37 +40,23 @@ projects:
       - jstools
       - gadgets
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 social_media:
   behance: ScottJWalter
   dribbble: ScottJWalter
   facebook: ScottJWalter
-  linkedin: ScottJWalter
-  medium: "@scottjwalter"
-  stackoverflow: 326607
-=======
-=======
->>>>>>> 15a08e9 (updated links)
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: ScottJWalter
   # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
->>>>>>> d78c6b2 (Adds hackerrank to social media links.)
+  medium: "@scottjwalter"
+  stackoverflow: 326607
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-  # vk: your_username
 
 topics:
   - name: Ansible
